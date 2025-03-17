@@ -27,16 +27,21 @@ jobs:
     - name: Generate sitemap
       run: python sitemap_generator.py
       
-    - name: Create tag
-      id: create_tag
+    - name: Update latest tag
       run: |
-        timestamp=$(date +%Y%m%d)
-        echo "tag_name=sitemap-${timestamp}" >> $GITHUB_OUTPUT
+        git tag -f latest
+        git push origin -f latest
+        echo "tag_name=latest" >> $GITHUB_OUTPUT
+      id: update_tag
         
-    - name: Create Release
+    - name: Create/Update Release
       uses: softprops/action-gh-release@v1
       with:
         files: sitemap.xml
-        tag_name: ${{ steps.create_tag.outputs.tag_name }}
-        name: Sitemap Update ${{ steps.create_tag.outputs.tag_name }}
-        body: Automated sitemap generation
+        tag_name: latest
+        name: Latest Sitemap
+        body: |
+          Automated sitemap generation
+          Last updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+        draft: false
+        prerelease: false
