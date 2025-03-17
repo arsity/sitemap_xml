@@ -8,7 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+      
     steps:
     - uses: actions/checkout@v4
     
@@ -24,26 +26,17 @@ jobs:
         
     - name: Generate sitemap
       run: python sitemap_generator.py
+      
+    - name: Create tag
+      id: create_tag
+      run: |
+        timestamp=$(date +%Y%m%d)
+        echo "tag_name=sitemap-${timestamp}" >> $GITHUB_OUTPUT
         
     - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: softprops/action-gh-release@v1
       with:
-        tag_name: sitemap-${{ github.run_number }}
-        release_name: Sitemap Update ${{ github.run_number }}
-        body: |
-          Automated sitemap generation for week ${{ github.run_number }}
-        draft: false
-        prerelease: false
-        
-    - name: Upload Sitemap
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./sitemap.xml
-        asset_name: sitemap.xml
-        asset_content_type: application/xml
+        files: sitemap.xml
+        tag_name: ${{ steps.create_tag.outputs.tag_name }}
+        name: Sitemap Update ${{ steps.create_tag.outputs.tag_name }}
+        body: Automated sitemap generation

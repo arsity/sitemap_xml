@@ -7,379 +7,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Creating_a_document_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Lists</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Paragraphs_and_new_lines</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Bold%2C_italics_and_underlining</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Creating_a_document_in_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Mathematical_expressions</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Inserting_Images</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Tables</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Using_the_Overleaf_project_menu</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Copying_a_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Uploading_a_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Creating_a_project_from_a_template</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Code_Check</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Debugging_Compilation_timeout_errors</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Exporting_your_work_from_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Sharing_your_work_with_others</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/International_language_support</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/French</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Arabic</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Chinese</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/German</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Greek</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Portuguese</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Japanese</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Italian</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Korean</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Spanish</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Multilingual_typesetting_on_Overleaf_using_polyglossia_and_fontspec</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Working_Offline_in_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Russian</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Sharing_a_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Why_do_I_keep_getting_the_compile_timeout_error_message%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Track_Changes_in_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Using_the_History_feature</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Subscripts_and_superscripts</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Overleaf_premium_features</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Choosing_a_LaTeX_Compiler</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Brackets_and_Parentheses</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Matrices</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Operators</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Spacing_in_math_mode</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Fractions_and_Binomials</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Mathematical_fonts</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Display_style_in_math_mode</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Biblatex_bibliography_styles</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Sections_and_chapters</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Biblatex_citation_styles</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Typesetting_quotations</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Multilingual_typesetting_on_Overleaf_using_babel_and_fontspec</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Table_of_contents</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Cross_referencing_sections%2C_equations_and_floats</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
     <loc>https://www.overleaf.com/learn/latex/Indices</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Glossaries</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -391,67 +19,7 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Management_in_a_large_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Hyperlinks</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Headers_and_footers</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Lengths_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Multi-file_LaTeX_projects</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Line_breaks_and_blank_spaces</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Page_numbering</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Paragraph_formatting</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Page_size_and_margins</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Text_alignment</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Multiple_columns</loc>
+    <loc>https://www.overleaf.com/learn/latex/Multilingual_typesetting_on_Overleaf_using_polyglossia_and_fontspec</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -463,139 +31,31 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Single_sided_and_double_sided_documents</loc>
+    <loc>https://www.overleaf.com/learn/how-to</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Changing_compiler</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted</loc>
+    <loc>https://www.overleaf.com/learn/latex/Writing_your_own_class</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Code_listing</loc>
+    <loc>https://www.overleaf.com/learn/latex/Inserting_Images</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Font_sizes%2C_families%2C_and_styles</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Font_typefaces</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Margin_notes</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Footnotes</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Commands</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Beamer</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Posters</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/XeLaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Powerdot</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Molecular_orbital_diagrams</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Theorems_and_proofs</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Feynman_diagrams</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Environments</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Chemistry_formulae</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Chess_notation</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/CircuiTikz_package</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Pgfplots_package</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Typesetting_exams_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Knitting_patterns</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -607,397 +67,7 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Knitr</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/List_of_packages_and_class_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Writing_your_own_package</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Understanding_packages_and_class_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_paste_formatted_content_into_Overleaf%23Pasting_images_into_your_Overleaf_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Tutorials</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Creating_a_document_in_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/kb</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Writing_your_own_class</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/LaTeX_Error%3A_There%27s_no_line_here_to_end</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Is_there_a_way_to_run_a_word_count_that_doesn%27t_include_LaTeX_commands%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Uploading_a_project%23Limitations_on_Uploads</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/Does_Overleaf_support_pTeX%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Set_Main_Document</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_jump_to_the_source_code_from_the_typeset_PDF_(SyncTeX)</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Can_I_choose_which_file_is_the_main_tex_file_in_a_project_on_Overleaf%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Code_Check%23Known_issues</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Is_there_a_way_to_adjust_the_zoom_level_of_the_displayed_pdf%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Code_Check%23Disabling_Code_Check_for_part_of_a_file</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/What_languages_are_currently_supported_in_the_spell_checker%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Code_Check%23Disabling_Code_Check_for_a_single_file</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Changing_compiler</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Changing_PDF_viewer</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_link_Mendeley_to_your_Overleaf_account</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/What_is_the_maximum_compilation_time%2C_file_number_and_project_size_allowed_on_free_vs_paid_plans%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Publishing_templates_and_examples_in_the_Overleaf_Gallery</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_link_Zotero_to_your_Overleaf_account</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Overleaf_Project_Limits</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_link_Papers_to_your_Overleaf_account</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_search_for_references_in_an_Overleaf_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Using_the_Stop_on_First_Error_compilation_mode</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Clearing_the_cache</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_does_Overleaf_compile_my_project%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Optimising_very_large_image_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/I_have_a_lot_of_tikz%2C_matlab2tikz_or_pgfplots_figures%2C_so_I%27m_getting_a_compilation_timeout._Can_I_externalise_my_figures%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/Tips_and_Tricks_for_Troubleshooting_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Latex-questions/Does_Overleaf_support_pTeX%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Fixing_and_preventing_compile_timeouts</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/How_to_use_latexmkrc_with_Overleaf</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/What_OTF/TTF_fonts_are_supported_via_fontspec%3F%23Chinese</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/Unicode%2C_UTF-8_and_multilingual_text%3A_An_introduction</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/A_six-part_article_series_on_%5Cexpandafter%2C_TeX_tokens_and_expansion</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/Unicode,_UTF-8_and_multilingual_text:_An_introduction</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/A_six-part_series%3A_How_do_TeX_macros_actually_work%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/Which_OTF_or_TTF_fonts_are_supported_via_fontspec%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/TeX_primitives_listed_by_CJK_TeX_engine</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/An_introduction_to_%5Cendlinechar%3A_How_TeX_reads_lines_from_text_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/What_is_a_%22TeX_token%22%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/A_New_Series_of_Articles%3A_TeX_Tokens_and_Related_Concepts%E2%80%94But_Why_(and_How)%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/The_two_modes_of_TeX_engines%3A_INI_mode_and_production_mode</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/Taming_LaTeX%27s_Page_Layout%3A_A_Visual_Template_and_Toolset_for_Book_Authors</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/An_introduction_to_Kpathsea_and_how_TeX_engines_search_for_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/An_Introduction_to_LuaTeX_(Part_1)%3A_What_is_it%E2%80%94and_what_makes_it_so_different%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/An_Introduction_to_LuaTeX_(Part_2)%3A_Understanding_%5Cdirectlua</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/What_is_a_TeX_token_list</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/How_TeX_Calculates_Glue_Settings_in_an_%5Chbox</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/Boxes_and_Glue%3A_A_Brief%2C_but_Visual%2C_Introduction_Using_LuaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/Pandora%E2%80%99s_%5Chbox%3A_Using_LuaTeX_to_Lift_the_Lid_of_TeX_Boxes</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/TeX_Tables%3A_How_TeX_Calculates_Spanned_Column_Widths</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/Using_LuaTeX_to_run_tools_and_utilities_installed_on_Overleaf%E2%80%99s_servers</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/How_to_use_latexmkrc_with_Overleaf%3A_examples_and_techniques</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/OpenType-based_math_typesetting%3A_An_introduction_to_the_STIX2_OpenType_fonts</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/The_Stoic_Resilience_of_PDF_Within_a_Digital_Ecosystem</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Can%27t_find_the_PDF_viewer</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_make_comments_in_an_Overleaf_LaTeX_project</loc>
+    <loc>https://www.overleaf.com/learn/latex/Natbib_bibliography_styles</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -1009,61 +79,49 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Change_font_size_in_editor</loc>
+    <loc>https://www.overleaf.com/learn/latex/Multi-file_LaTeX_projects</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Connection_problems</loc>
+    <loc>https://www.overleaf.com/learn/latex/Lists</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Canceling_Subscription</loc>
+    <loc>https://www.overleaf.com/learn/latex/Single_sided_and_double_sided_documents</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Syncing_PDF_file_in_Dropbox</loc>
+    <loc>https://www.overleaf.com/learn/latex/Writing_your_own_package</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Downloading_a_Project</loc>
+    <loc>https://www.overleaf.com/learn/latex/Lists_of_tables_and_figures</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Change_spell_check_language</loc>
+    <loc>https://www.overleaf.com/learn/latex/Russian</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Editor_out_of_sync_problems</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Creating_a_project_from_a_template</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Fonts_appearing_incorrectly</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Images_not_showing_up</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Upload_Throttled</loc>
+    <loc>https://www.overleaf.com/learn/latex/Molecular_orbital_diagrams</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -1075,307 +133,97 @@
     <priority>0.4</priority>
   </url>
   <url>
+    <loc>https://www.overleaf.com/learn/latex/Paragraphs_and_new_lines</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Using_the_Symbol_Palette_in_Overleaf</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Pgfplots_package</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Typesetting_quotations</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Using_the_File_Outline_in_Overleaf</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Questions/I_have_a_lot_of_tikz%2C_matlab2tikz_or_pgfplots_figures%2C_so_I%27m_getting_a_compilation_timeout._Can_I_externalise_my_figures%3F</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Brackets_and_Parentheses</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Spanish</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Korean</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Management_in_a_large_project</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://www.overleaf.com/learn/how-to/Can%27t_find_%60Jump_to_Source_code%27_arrows</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Set_Time_Zone</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Change_font_size_in_editor</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/What_is_the_maximum_compilation_time,_file_number_and_project_size_allowed_on_free_vs_paid_plans%3F</loc>
+    <loc>https://www.overleaf.com/learn/latex/Headers_and_footers</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Cross_referencing_with_the_xr_package_in_Overleaf</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Overleaf_Accounts_and_Subscriptions</loc>
+    <loc>https://www.overleaf.com/learn/latex/Feynman_diagrams</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Hotkeys</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/User_Support_Policy</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Using_Git_and_GitHub</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Dropbox_Synchronization</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Can_I_save_versions_of_my_work%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/Misplaced_alignment_tab_character_%26.</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Debugging_Compilation_timeout_errors</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors%3ADisplay_math_should_end_with_%24%24.%22</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors%3AExtra_alignment_tab_has_been_changed_to_%5Ccr.</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/Double_subscript</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/Missing_%24_inserted</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors%3A%60!h%27_float_specifier_changed_to_%60!ht%27.</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors%3AThere_were_undefined_references.</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors%3ANo_positions_in_optional_float_specifier.%22</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Management_in_a_large_project%23Importing_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/How_does_LaTeX_typeset_headers_and_footers%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/A_visual_guide_to_LaTeX%E2%80%99s_page_layout_parameters%23Notes_on_the_page-layout_parameters_and_equations</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/A_visual_guide_to_LaTeX%E2%80%99s_page_layout_parameters</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Font_sizes_and_kinds</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Debugging_Compilation_timeout_errors%23Compiling_big_projects</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Environments%23Defining_a_new_environment</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Typing_exams_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Font_sizes_and_kinds%23Reference_guide</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Counters%23Introduction_to_LaTeX_counters</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Inserting_Images%23Positioning</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Tables%23Colouring_a_table_.28cells.2C_rows.2C_columns_and_lines.29</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Multiple_columns%23Inserting_vertical_rulers</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Tables%23Positioning_tables</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Using_the_Overleaf_project_menu%23TeX_Live_version</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Management_in_a_large_project%23Inputting_and_including_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Counters%23Accessing_and_printing_counter_values</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Code_listing%23Code_styles_and_colours</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/Can_I_add_inline_or_margin_comments_to_the_pdf%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Commands%23Defining_a_new_command</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Compile</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Positioning_images_and_tables%23The_figure_environment</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Inserting_Images%23Captioning%2C_labelling_and_referencing</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/What_OTF/TTF_fonts_are_supported_via_fontspec%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2)</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_3)</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_insert_tables_in_Overleaf%23editable</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Multi-file_LaTeX_projects%23The_subfiles_package</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_search_for_references_in_an_Overleaf_project%23Configuring_advanced_reference_search_to_use_Mendeley</loc>
+    <loc>https://www.overleaf.com/learn/how-to/How_to_paste_formatted_content_into_Overleaf</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -1387,157 +235,25 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/MLTeX_EncTeX_and_SyncTeX_TeX_extensions</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Set_Time_Zone</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/SyncTeX_Errors</loc>
+    <loc>https://www.overleaf.com/learn/latex/Japanese</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/My_main_file_is_in_a_subfolder%2C_but_this_is_not_allowed_on_Overleaf._But_I_don%27t_want_to_change_my_folder_structure_and_%5Cinput_paths!</loc>
+    <loc>https://www.overleaf.com/learn/latex/Spacing_in_math_mode</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Overleaf_plan_limits</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Is_Overleaf_free_to_use%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_submit_your_article_to_Overleaf%27s_publishing_partners</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Git_integration</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/GitHub_Synchronization</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Using_tags_to_organize_your_Overleaf_projects</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Sharing_a_project%23Link_sharing</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Copying_a_project%23Making_a_copy_of_a_project</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Sharing_a_project%23Inviting_collaborators_via_email</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Resolving_access%2C_loading%2C_and_display_problems</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/View_generated_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Fixing_and_avoiding_compile_timeouts</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_Overleaf_created_the_TeX_primitive_reference_data</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/TeX_primitives_listed_by_TeX_engine</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name:_A_Guide_to_the_Many_Flavours_of_TeX</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/A_six-part_series:_How_do_TeX_macros_actually_work%3F</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How%20TeX%20macros%20actually%20work:%20Part%201</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/An_introduction_to_%5Cendlinechar:_How_TeX_reads_lines_from_text_files</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_use_the_Overleaf_layout_menu</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Understanding_Managed_Overleaf_Accounts</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/A_six-part_article_series_on_%5Cexpandafter,_TeX_tokens_and_expansion</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/Table_of_TeX_category_codes</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/What_browsers_do_you_support</loc>
+    <loc>https://www.overleaf.com/learn/latex/Positioning_images_and_tables</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -1549,13 +265,97 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Can_I_change_the_spell_check_language_to_e.g._Spanish%3F</loc>
+    <loc>https://www.overleaf.com/learn/latex/Matrices</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Managing_your_Overleaf_emails_and_login_options</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Can%27t_find_the_PDF_viewer</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Font_typefaces</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/CircuiTikz_package</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Latex-questions/Does_Overleaf_support_pTeX%3F</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Picture_environment</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Debugging_Compilation_timeout_errors</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Mathematical_fonts</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Sections_and_chapters</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Syncing_PDF_file_in_Dropbox</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/XeLaTeX</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/kb</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Images_not_showing_up</loc>
+    <lastmod>2025-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.overleaf.com/learn/how-to/Hotkeys</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
@@ -1567,271 +367,187 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Questions/How_do_I_make_%5Ctoday_display_the_date_according_to_my_time_zone%3F</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Managing_your_Overleaf_emails_and_login_options</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/File_XXX_not_found_on_input_line_XXX.</loc>
+    <loc>https://www.overleaf.com/learn/how-to/How_to_insert_tables_in_Overleaf%23editable</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Managing_a_group_subscription</loc>
+    <loc>https://www.overleaf.com/learn/latex/List_of_packages_and_class_files</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Joining_an_Overleaf_Commons_Subscription</loc>
+    <loc>https://www.overleaf.com/learn/latex/Mathematical_expressions</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/User_Management_in_Overleaf</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Using_the_Overleaf_project_menu</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Git_Integration_and_GitHub_Synchronization</loc>
+    <loc>https://www.overleaf.com/learn/latex/Text_alignment</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_do_I_delete_my_Overleaf_account%3F</loc>
+    <loc>https://www.overleaf.com/learn/latex/Management_in_a_large_project%23Importing_files</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/LaTeX_checklist_for_arXiv_submissions</loc>
+    <loc>https://www.overleaf.com/learn/how-to/How_to_use_the_Overleaf_layout_menu</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Joining_an_Overleaf_Group_Subscription</loc>
+    <loc>https://www.overleaf.com/learn/latex/French</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_Transfer_Project_Ownership</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Uploading_a_project</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/%60!h%27_float_specifier_changed_to_%60!ht%27</loc>
+    <loc>https://www.overleaf.com/learn/latex/Greek</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/Misplaced_alignment_tab_character_%26</loc>
+    <loc>https://www.overleaf.com/learn/how-to/User_Support_Policy</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/Display_math_should_end_with_%24%24</loc>
+    <loc>https://www.overleaf.com/learn/latex/Table_of_contents</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/Extra_alignment_tab_has_been_changed_to_%5Ccr</loc>
+    <loc>https://www.overleaf.com/learn/how-to/What_packages_do_you_support%3F</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/TeX_engine_command_line_options_for_pdfTeX%2C_XeTeX_and_LuaTeX</loc>
+    <loc>https://www.overleaf.com/learn/latex/Knitting_patterns</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Bold%2C_italics_and_underlining%23Bold_text</loc>
+    <loc>https://www.overleaf.com/learn/latex/Articles/A_visual_guide_to_LaTeX%E2%80%99s_page_layout_parameters%23Notes_on_the_page-layout_parameters_and_equations</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/No_positions_in_optional_float_specifier</loc>
+    <loc>https://www.overleaf.com/learn/latex/Questions/Tips_and_Tricks_for_Troubleshooting_LaTeX</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Errors/There_were_undefined_references</loc>
+    <loc>https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_generate_and_insert_LaTeX_tables_in_Overleaf</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Is_there_a_way_to_adjust_the_zoom_level_of_the_displayed_pdf%3F</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Git_integration_password-based_authentication</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Working_Offline_in_Overleaf</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Can_I_share_files_(e.g._.bib_and_some_graphics)_across_my_projects%3F</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Code_Check</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/TeX_primitives_cross-reference_data</loc>
+    <loc>https://www.overleaf.com/learn/latex/Cross_referencing_sections_and_equations</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Git_integration%23Cloning_your_project_as_a_local_repository</loc>
+    <loc>https://www.overleaf.com/learn/latex/Typing_exams_in_LaTeX</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/how-to/Git_integration_authentication_tokens</loc>
+    <loc>https://www.overleaf.com/learn/latex/Errors</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Cbadness</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Fixing_and_avoiding_compile_timeouts</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/Articles/What%27s_in_a_Name%3A_A_Guide_to_the_Many_Flavours_of_TeX%23The_genesis_of_TeX%3A_A_brief_history</loc>
+    <loc>https://www.overleaf.com/learn/latex/Errors%3ADisplay_math_should_end_with_%24%24.%22</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Cabovedisplayskip</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Institutional_single_sign-on</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/MLTeX_SyncTeX_and_EncTeX_TeX_extensions</loc>
+    <loc>https://www.overleaf.com/learn/latex/Aligning_equations</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/TeX_primitives_cross-reference_data_(for_CJK_engines)</loc>
+    <loc>https://www.overleaf.com/learn/latex/Font_sizes%2C_families%2C_and_styles</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Coverfullrule</loc>
+    <loc>https://www.overleaf.com/learn/how-to/How_to_paste_formatted_content_into_Overleaf%23Pasting_images_into_your_Overleaf_project</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Chfuzz</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Cpdfminorversion</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Cpdfoutput</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Cpdfinclusionerrorlevel</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_2</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_4</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work:_Part_3</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Overleaf_Group_single_sign-on</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work%3A_Part_2</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Chbadness</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/%5Cabovedisplayskip_and_related_commands</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/Sharing_a_project/</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/how-to/How_to_transfer_project_ownership</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work%3A_Part_4</loc>
-    <lastmod>2025-03-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.overleaf.com/learn/latex/How_TeX_macros_actually_work%3A_Part_3</loc>
+    <loc>https://www.overleaf.com/learn/how-to/Cross_referencing_with_the_xr_package_in_Overleaf</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
